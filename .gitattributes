@@ -1,0 +1,14 @@
+# Normalize line endings
+# Generated on 2026-11-06
+*.min.js linguist-generated
+examples/site/** linguist-vendored
+
+*.ts linguist-detectable
+
+*.min.css linguist-generated
+examples/site/index.html linguist-vendored
+*.yaml linguist-detectable=false
+*.gif binary
+
+go.sum linguist-generated
+*.woff2 binary
